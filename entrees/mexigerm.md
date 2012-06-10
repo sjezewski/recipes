@@ -9,3 +9,19 @@ Maybe a custom sauce:
 - coriander
 
 
+Tried the following:
+
+## Ingredients ##
+
+- sausage
+- 2 onions
+- 1T piquin peppers
+- [Spanish Rub](../sauces/spanish-rub.md)
+
+## Directions ##
+
+Fry em up
+
+## Serve ##
+
+Eat w black beans and [yucca](../sides/yucca-con-mojo.md)
