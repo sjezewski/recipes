@@ -7,10 +7,15 @@
 - 1 tsp chipotle powder
 
 
-## Directions
+## Instructions
 
 - cut the onions course
 - fry em up
   - high heat initially w the bourbon
   - then medium to carmelize / reduce
 
+## Modifications
+
+- Use tequila instead of bourbon
+- Add meyer lemon
+- And a bit of cumin / coriander / garlic
