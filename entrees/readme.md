@@ -35,6 +35,8 @@
 
 (Recipes in place, but haven't tried or vouched for them yet)
 
+- [carnitas](./carnitas.md)
+
 ## Wants
 
 (Don't have recipe, just the idea)
