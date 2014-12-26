@@ -10,8 +10,6 @@
 - [pakoras](./pakoras.md)
 - [roasted garlic head](./roasted-garlic-head.md)
 - [smashed potatoes](./smashed-potatoes.md)
-- 
-
 
 
 ## Needs Work
