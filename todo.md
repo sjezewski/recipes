@@ -1,0 +1,9 @@
+- chili paste v2 / v3
+- bagna cauda sauce
+- date paste
+- crepes
+- smoked chicken tacos
+- yuzu fish
+- paella (and laszy versions)
+- moroccan lamb
+- 
