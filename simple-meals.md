@@ -13,7 +13,14 @@ While I love to cook and will cook more involved things, I'd say 90% of my cooki
 
 If you've got those, you're good
 
+## Pantry
+
+- EVOO (extra virgin olive oil)
+- high heat oil (canola, grapeseed, etc)
+
 ## Staples
+
+(Detailed recipes below)
 
 - roast veggies
 - braised veggies
@@ -23,9 +30,10 @@ If you've got those, you're good
 
 ## Methods
 
+(Detailed recipes below)
+
 - bake in a pan
 - scrambles
-
 
 ## Flourish
 
