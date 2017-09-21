@@ -189,6 +189,8 @@ Tips:
 
 Easiest way to make a meal!
 
+![looks good](https://github.com/sjezewski/recipes/raw/master/images/veggies_pan.md)
+
 Method:
 
 - heat oven to 400
@@ -215,6 +217,11 @@ Tips:
 - add meat
     - add a chicken breast, and perhaps a bit of wine
     - (too much wine and you probably want to do it in a dutch oven not a cast iron ... or it'll corrode)
+- try different veggie combos
+	- I usually do: sweet potato / onion / tomato / cauliflower
+	- other options:
+		- turnip / carrot / tomato / zuccini
+		- broccoli / eggplant / cauliflower
 
 ### Scrambles
 
