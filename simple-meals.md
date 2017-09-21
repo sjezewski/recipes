@@ -274,6 +274,19 @@ Add cheese / nuts (e.g. cheat):
 
 I have a super awesome kale salad recipe that always impresses. It's not super involved, but it's not simple either. If you're interested, I'll share
 
+### Staples on Staples
+
+I learned recently that folks call this 'macrobiotic' food. I just like it.
+
+Basically I'll do brown rice (lower glycemic index) and some braised greens, and beans of some sort (or lentils) ... and thats 80% of a meal right there. Then I'll fry some eggs, or add fish, and add something to make it tasty. Soy sauce, or one of the sauces I list below.
+
+Some example combos:
+
+- brown rice + kale + lentils + ginger miso oil + egg
+- white rice + salmon + black beans
+- white rice + pinto beans + roast garlic + eggs + chile paste
+- white rice scramble + braised leeks + onions + kimchi
+
 ## Flourish
 
 - [togarashi flakes](https://github.com/sjezewski/recipes/raw/master/images/togarashi.jpg)
