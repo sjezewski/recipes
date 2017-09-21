@@ -189,7 +189,7 @@ Tips:
 
 Easiest way to make a meal!
 
-![looks good](https://github.com/sjezewski/recipes/raw/master/images/veggies_pan.md)
+![looks good](https://github.com/sjezewski/recipes/raw/master/images/veggies_pan.jpg)
 
 Method:
 
