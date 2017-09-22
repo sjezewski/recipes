@@ -299,6 +299,7 @@ Some example combos:
 - white rice + salmon + black beans
 - white rice + pinto beans + roast garlic + eggs + chile paste
 - white rice scramble + braised leeks + onions + kimchi
+- hummus + roast carrots
 
 ## Flourish
 
