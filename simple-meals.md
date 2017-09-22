@@ -282,9 +282,14 @@ Add cheese / nuts (e.g. cheat):
 
 I have a super awesome kale salad recipe that always impresses. It's not super involved, but it's not simple either. If you're interested, I'll share
 
+Other tips:
+
+- dont use iceberg lettuce, it tastes like nothing, and has no calories
+- i like arugula, or rocket, or spinach, or anything else
+
 ### Staples on Staples
 
-I learned recently that folks call this 'macrobiotic' food. I just like it.
+I learned recently that folks call this 'macrobiotic' food. I think its just good simple food.
 
 Basically I'll do brown rice (lower glycemic index) and some braised greens, and beans of some sort (or lentils) ... and thats 80% of a meal right there. Then I'll fry some eggs, or add fish, and add something to make it tasty. Soy sauce, or one of the sauces I list below.
 
